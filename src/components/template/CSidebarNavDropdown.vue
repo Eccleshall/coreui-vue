@@ -34,7 +34,8 @@ export default {
     icon: [String, Object],
     fontIcon: String,
     show: Boolean,
-    items: Array
+    items: Array,
+    permission: Array
   },
   data () {
     return {
